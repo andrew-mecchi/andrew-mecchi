@@ -13,9 +13,9 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20Athena%20-%20Athena)(https://aws.amazon.com/athena/)
-![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20RedShift%20-%20RedShift)(https://aws.amazon.com/redshift/)
-![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20QuickSight%20-%20QuickSight)(https://aws.amazon.com/quick/quicksight/)
+![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20Athena%20-%20Athena)
+![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20RedShift%20-%20RedShift)
+![Static Badge](https://img.shields.io/badge/Amazon%20Web%20Services%20%7C%20QuickSight%20-%20QuickSight)
 
 
 
